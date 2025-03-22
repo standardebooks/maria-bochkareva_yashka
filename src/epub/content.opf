@@ -30,63 +30,64 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Yashka</dc:title>
 		<meta property="file-as" refines="#title">Yashka</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">My Life as Peasant, Exile and Soldier</dc:title>
+		<meta property="file-as" refines="#subtitle">My Life as Peasant, Exile and Soldier</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Yashka: My Life as Peasant, Exile and Soldier</dc:title>
+		<meta property="file-as" refines="#fulltitle">Yashka: My Life as Peasant, Exile and Soldier</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Soviet Union -- History -- Revolution, 1917-1921</dc:subject>
 		<dc:subject id="subject-2">World War, 1914-1918 -- Personal narratives, Russian</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85125808</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008113848</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">A Russian peasant leaves Siberian exile to fight for her country in World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Born as a peasant in northern Russia, &lt;a href="https://standardebooks.org/ebooks/maria-bochkareva"&gt;Maria Bochkareva&lt;/a&gt; lives in Siberian exile with her politically radical husband. With the outbreak of World War I she sees an opportunity to escape his physical abuse and leaves Siberia to enlist in the Russian Army. Overcoming discrimination and maltreatment, she enters the ranks on the eastern front, where she must fight the German invasion, win the respect of her male comrades, and resist the rising Bolshevik tide.&lt;/p&gt;
+			&lt;p&gt;During her life in the trenches, Bochkareva became the first female officer in the Russian Army and organized the Woman’s Battalion of Death, an all-women military unit intended to inspire the demoralized troops during the last year of the war. Conflicts with the Bolsheviks after the October Revolution lead her to escape to America, where she dictated her autobiography to Russian journalist &lt;a href="https://standardebooks.org/ebooks/isaac-don-levine"&gt;Isaac Don Levine&lt;/a&gt;. After meeting with Woodrow Wilson and King George V to appeal for the Allied intervention in the civil war, she returned to Russia in 1918 and attempted to form another battalion. She was captured by the Bolsheviks and later executed on May 16, 1920.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70213</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/yashkamylifeaspe00bochuoft</dc:source>
+		<meta property="se:production-notes">Romanizations of Russian names were modernized as appropriate.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Yashka</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maria-bochkareva_isaac-don-levine_yashka</meta>
 		<dc:creator id="author-1">Maria Bochkareva</dc:creator>
 		<meta property="file-as" refines="#author-1">Bochkareva, Maria</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author-1">Maria Leontievna Bochkareva</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Maria_Bochkareva</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/nr2001051434</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">Isaac Don Levine</dc:creator>
 		<meta property="file-as" refines="#author-2">Levine, Isaac Don</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Isaac_Don_Levine</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/n79043575</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
+		<dc:contributor id="artist">Helmi Biese</dc:contributor>
+		<meta property="file-as" refines="#artist">Biese, Helmi</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jacob Garber</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Garber, Jacob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.jwgarber.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
