@@ -59,6 +59,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maria-bochkareva_isaac-don-levine_yashka</meta>
 		<dc:creator id="author-1">Maria Bochkareva</dc:creator>
 		<meta property="file-as" refines="#author-1">Bochkareva, Maria</meta>
+		<meta property="alternate-script" refines="#author-1" xml:lang="ru">Мари́я Лео́нтьевна Бочкарёва</meta>
 		<meta property="se:name.person.full-name" refines="#author-1">Maria Leontievna Bochkareva</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Maria_Bochkareva</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/nr2001051434</meta>
