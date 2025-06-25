@@ -69,7 +69,7 @@
 		<meta property="display-seq" refines="#author-2">0</meta>
 		<meta property="file-as" refines="#author-2">Levine, Isaac Don</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Isaac_Don_Levine</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/n79043575</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79043575</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">ill</meta>
