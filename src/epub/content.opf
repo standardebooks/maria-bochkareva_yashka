@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70213</dc:source>
 		<dc:source>https://archive.org/details/yashkamylifeaspe00bochuoft</dc:source>
-		<meta property="se:word-count">102773</meta>
+		<meta property="se:word-count">102241</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maria-bochkareva_yashka</meta>
 		<dc:creator id="author-1">Maria Bochkareva</dc:creator>
