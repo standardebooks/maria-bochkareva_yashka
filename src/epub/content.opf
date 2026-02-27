@@ -58,7 +58,6 @@
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maria-bochkareva_yashka</meta>
 		<dc:creator id="author-1">Maria Bochkareva</dc:creator>
-		<meta property="display-seq" refines="#author-1">1</meta>
 		<meta property="file-as" refines="#author-1">Bochkareva, Maria</meta>
 		<meta property="alternate-script" refines="#author-1" xml:lang="ru">Мари́я Лео́нтьевна Бочкарёва</meta>
 		<meta property="se:name.person.full-name" refines="#author-1">Maria Leontievna Bochkareva</meta>
