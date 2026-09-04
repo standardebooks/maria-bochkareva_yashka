@@ -38,8 +38,8 @@
 		<dc:title id="fulltitle">Yashka: My Life as Peasant, Exile and Soldier</dc:title>
 		<meta property="file-as" refines="#fulltitle">Yashka: My Life as Peasant, Exile and Soldier</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Soviet Union -- History -- Revolution, 1917-1921</dc:subject>
-		<dc:subject id="subject-2">World War, 1914-1918 -- Personal narratives, Russian</dc:subject>
+		<dc:subject id="subject-1">Soviet Union--History--Revolution, 1917-1921</dc:subject>
+		<dc:subject id="subject-2">World War, 1914-1918--Personal narratives, Russian</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85125808</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
