@@ -62,7 +62,7 @@
 		<link href="https://github.com/standardebooks/maria-bochkareva_yashka" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author-1">Maria Bochkareva</dc:creator>
 		<meta property="file-as" refines="#author-1">Bochkareva, Maria</meta>
-		<meta property="alternate-script" refines="#author-1" xml:lang="ru">Мари́я Лео́нтьевна Бочкарёва</meta>
+		<meta property="alternate-script" refines="#author-1">Мари́я Лео́нтьевна Бочкарёва</meta>
 		<meta property="schema:alternateName" refines="#author-1">Maria Leontievna Bochkareva</meta>
 		<link href="https://en.wikipedia.org/wiki/Maria_Bochkareva" refines="#author-1" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr2001051434.html" refines="#author-1" rel="schema:sameAs"/>
