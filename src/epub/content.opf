@@ -79,8 +79,8 @@
 		<dc:contributor id="artist">Helmi Biese</dc:contributor>
 		<meta property="file-as" refines="#artist">Biese, Helmi</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber" rel="schema:url"/>
 		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jacob Garber</dc:contributor>
